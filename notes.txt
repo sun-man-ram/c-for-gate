@@ -2,3 +2,4 @@ lecture 2 need to remember all 2 powers till 65532
 
 need to generalise cyclic property formula
 
+memorize priority rules
